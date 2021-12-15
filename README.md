@@ -2,7 +2,7 @@
 ---
 
 this is a learning project on Django Framework. Contains app "Learning logs", 
-which includes two model (topic and entry), some teamlates ad view functions.
+which includes two model (topic and entry), some teamplates ad view functions.
 
 Also there is admin panel with superuser auth
 
