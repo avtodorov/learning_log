@@ -142,3 +142,5 @@ About
 
 #idea
 .idea/
+#venv
+ll_env/
